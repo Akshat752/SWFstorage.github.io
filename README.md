@@ -1,3 +1,3 @@
 # SWFstorage.github.io
 
-I am using this to store swf files.
+This Repo is just being used to store swf files so my WIX website can access them.
